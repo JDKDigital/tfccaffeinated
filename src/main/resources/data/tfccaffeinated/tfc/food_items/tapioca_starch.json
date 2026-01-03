@@ -1,0 +1,9 @@
+{
+  "ingredient": {
+    "item": "tfccaffeinated:food/tapioca_starch"
+  },
+  "hunger": 2,
+  "saturation": 0,
+  "decay_modifier": 3.0,
+  "vegetables": 1.0
+}

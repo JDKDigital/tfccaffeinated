@@ -1,0 +1,15 @@
+{
+  "type": "firmalife:stomping",
+  "ingredient": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "tfccaffeinated:food/cassava"
+    }
+  },
+  "result": {
+    "item": "tfccaffeinated:food/tapioca_starch"
+  },
+  "input_texture": "tfccaffeinated:block/unsmashed_cassava",
+  "output_texture": "tfccaffeinated:block/tapocia_paste",
+  "sound": "minecraft:entity.slime.squish"
+}

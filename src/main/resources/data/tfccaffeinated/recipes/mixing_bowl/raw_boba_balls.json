@@ -1,0 +1,25 @@
+{
+  "type": "firmalife:mixing_bowl",
+  "ingredients": [
+    {
+      "item": "tfccaffeinated:food/tapioca_starch"
+    },
+    {
+      "item": "tfccaffeinated:food/tapioca_starch"
+    },
+    {
+      "item": "tfccaffeinated:food/tapioca_starch"
+    },
+    {
+      "item": "firmalife:food/cocoa_powder"
+    }
+  ],
+  "fluid_ingredient": {
+    "ingredient": "firmalife:sugar_water",
+    "amount": 1000
+  },
+  "output_item": {
+    "item": "tfccaffeinated:food/raw_boba_balls",
+    "count": 4
+  }
+}

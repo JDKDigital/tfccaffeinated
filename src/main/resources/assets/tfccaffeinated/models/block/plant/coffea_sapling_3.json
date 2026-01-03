@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/plant/cross_3",
+  "render_type": "cutout",
+  "textures": {
+    "cross": "tfccaffeinated:block/fruit_tree/coffea_sapling"
+  }
+}

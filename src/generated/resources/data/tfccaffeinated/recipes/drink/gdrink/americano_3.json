@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tfccaffeinated:bucket/espresso"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "tfccaffeinated:gdrink/americano"
+  }
+}

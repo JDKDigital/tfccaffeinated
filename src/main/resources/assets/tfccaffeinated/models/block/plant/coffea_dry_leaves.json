@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "render_type": "cutout",
+  "textures": {
+    "all": "tfccaffeinated:block/fruit_tree/coffea_dry_leaves"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ingredient": {
+    "item": "tfccaffeinated:food/raw_boba_balls"
+  },
+  "hunger": 2,
+  "saturation": 0,
+  "decay_modifier": 2.75,
+  "vegetables": 1.0
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfccaffeinated:food/roasted_coffee_beans"
+  },
+  "result": {
+    "item": "tfccaffeinated:food/ground_coffee",
+    "count": 1
+  }
+}

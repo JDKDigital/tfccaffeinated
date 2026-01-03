@@ -1,0 +1,8 @@
+{
+  "values": [
+    "tfccaffeinated:fluid/espresso",
+    "tfccaffeinated:fluid/black_coffee",
+    "tfccaffeinated:fluid/green_tea",
+    "tfccaffeinated:fluid/black_tea"
+  ]
+}

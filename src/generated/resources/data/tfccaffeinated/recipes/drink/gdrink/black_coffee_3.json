@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tfccaffeinated:bucket/black_coffee"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "tfccaffeinated:gdrink/black_coffee"
+  }
+}

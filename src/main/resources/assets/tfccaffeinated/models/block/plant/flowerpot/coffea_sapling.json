@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "render_type": "cutout",
+  "textures": {
+    "plant": "tfccaffeinated:block/fruit_tree/coffea_sapling",
+    "dirt": "tfc:block/dirt/loam"
+  }
+}

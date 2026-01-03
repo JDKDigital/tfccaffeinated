@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "lifecycle=flowering": {
+      "model": "tfccaffeinated:block/plant/coffea_flowering_leaves"
+    },
+    "lifecycle=fruiting": {
+      "model": "tfccaffeinated:block/plant/coffea_fruiting_leaves"
+    },
+    "lifecycle=dormant": {
+      "model": "tfccaffeinated:block/plant/coffea_dry_leaves"
+    },
+    "lifecycle=healthy": {
+      "model": "tfccaffeinated:block/plant/coffea_leaves"
+    }
+  }
+}

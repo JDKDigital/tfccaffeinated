@@ -1,0 +1,15 @@
+{
+  "type": "tfc:knapping",
+  "knapping_type": "tfc:clay",
+  "outside_slot_required": false,
+  "pattern": [
+    " X XX",
+    " X   ",
+    " X X ",
+    " X   ",
+    "   XX"
+  ],
+  "result": {
+    "item": "tfccaffeinated:unfired_mug"
+  }
+}

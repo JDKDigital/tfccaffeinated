@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tfccaffeinated:block/fluid/green_tea"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tfccaffeinated:bucket/espresso"
+    },
+    {
+      "tag": "forge:ice_creams"
+    },
+    {
+      "item": "tfccaffeinated:mug"
+    },
+    {
+      "item": "tfccaffeinated:mug"
+    },
+    {
+      "item": "tfccaffeinated:mug"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "tfccaffeinated:drink/affogato"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "tfccaffeinated:block/crop/tea/stage_0"
+    },
+    "age=1": {
+      "model": "tfccaffeinated:block/crop/tea/stage_1"
+    },
+    "age=2": {
+      "model": "tfccaffeinated:block/crop/tea/stage_2"
+    },
+    "age=3": {
+      "model": "tfccaffeinated:block/crop/tea/stage_3"
+    },
+    "age=4": {
+      "model": "tfccaffeinated:block/crop/tea/stage_4"
+    },
+    "age=5": {
+      "model": "tfccaffeinated:block/crop/tea/stage_5"
+    },
+    "age=6": {
+      "model": "tfccaffeinated:block/crop/tea/stage_6"
+    }
+  }
+}

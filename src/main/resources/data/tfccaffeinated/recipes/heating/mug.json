@@ -1,0 +1,10 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfccaffeinated:unfired_mug"
+  },
+  "result_item": {
+    "item": "tfccaffeinated:mug"
+  },
+  "temperature": 1399
+}

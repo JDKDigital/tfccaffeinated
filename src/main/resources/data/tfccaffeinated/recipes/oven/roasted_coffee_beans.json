@@ -1,0 +1,14 @@
+{
+  "type": "firmalife:oven",
+  "ingredient": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "tfccaffeinated:food/coffee_beans"
+    }
+  },
+  "result_item": {
+    "item": "tfccaffeinated:food/roasted_coffee_beans"
+  },
+  "temperature": 400,
+  "duration": 500
+}

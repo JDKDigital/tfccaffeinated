@@ -1,0 +1,6 @@
+{
+  "type": "tfc:fruit_trees",
+  "config": {
+    "state": "tfccaffeinated:plant/coffea_growing_branch"
+  }
+}

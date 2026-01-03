@@ -1,0 +1,17 @@
+{
+  "type": "firmalife:drying",
+  "ingredient": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "tfccaffeinated:food/tea_leaves"
+    }
+  },
+  "result": {
+    "stack": {
+      "item": "tfccaffeinated:food/black_tea_leaves"
+    },
+    "modifiers": [
+      "tfc:copy_food"
+    ]
+  }
+}

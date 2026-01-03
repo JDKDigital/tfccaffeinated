@@ -1,0 +1,24 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+    {
+      "item": "tfccaffeinated:food/tea_leaves"
+    },
+    {
+      "item": "tfccaffeinated:food/tea_leaves"
+    },
+    {
+      "item": "tfccaffeinated:food/tea_leaves"
+    }
+  ],
+  "fluid_ingredient": {
+    "ingredient": "minecraft:water",
+    "amount": 1000
+  },
+  "duration": 1000,
+  "temperature": 300,
+  "fluid_output": {
+    "fluid": "tfccaffeinated:green_tea",
+    "amount": 1000
+  }
+}

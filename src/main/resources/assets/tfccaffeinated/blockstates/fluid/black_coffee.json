@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tfccaffeinated:block/fluid/black_coffee"
+    }
+  }
+}

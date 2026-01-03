@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "mature=false": {
+      "model": "tfccaffeinated:block/dead_crop/cassava_young"
+    },
+    "mature=true,part=top": {
+      "model": "tfccaffeinated:block/dead_crop/cassava_top"
+    },
+    "mature=true,part=bottom": {
+      "model": "tfccaffeinated:block/dead_crop/cassava_bottom"
+    }
+  }
+}

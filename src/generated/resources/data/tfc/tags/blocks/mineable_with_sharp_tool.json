@@ -1,0 +1,10 @@
+{
+  "values": [
+    "tfccaffeinated:crop/cassava",
+    "tfccaffeinated:crop/tea",
+    "tfccaffeinated:wild_crop/wild_cassava",
+    "tfccaffeinated:wild_crop/wild_tea",
+    "tfccaffeinated:dead_crop/dead_cassava",
+    "tfccaffeinated:dead_crop/dead_tea"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "mature=true": {
+      "model": "tfccaffeinated:block/dead_crop/tea"
+    },
+    "mature=false": {
+      "model": "tfccaffeinated:block/dead_crop/tea_young"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tfccaffeinated:bucket/black_coffee"
+    },
+    {
+      "item": "tfccaffeinated:bucket/black_coffee"
+    },
+    {
+      "tag": "forge:buckets/whiskey"
+    },
+    {
+      "item": "tfccaffeinated:food/whipped_cream"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "tfccaffeinated:gdrink/irish_coffee"
+  }
+}

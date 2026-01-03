@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "part=top,mature=true": {
+      "model": "tfccaffeinated:block/wild_crop/cassava_top"
+    },
+    "part=top,mature=false": {
+      "model": "tfccaffeinated:block/dead_crop/cassava_top"
+    },
+    "part=bottom,mature=true": {
+      "model": "tfccaffeinated:block/wild_crop/cassava_bottom"
+    },
+    "part=bottom,mature=false": {
+      "model": "tfccaffeinated:block/dead_crop/cassava_bottom"
+    }
+  }
+}

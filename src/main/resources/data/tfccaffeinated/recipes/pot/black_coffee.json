@@ -1,0 +1,21 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+    {
+      "item": "tfccaffeinated:food/ground_coffee"
+    },
+    {
+      "item": "tfccaffeinated:food/ground_coffee"
+    }
+  ],
+  "fluid_ingredient": {
+    "ingredient": "minecraft:water",
+    "amount": 1000
+  },
+  "duration": 1000,
+  "temperature": 300,
+  "fluid_output": {
+    "fluid": "tfccaffeinated:black_coffee",
+    "amount": 1000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "tfccaffeinated:block/crop/cassava/lower/stage_0"
+    },
+    "age=1": {
+      "model": "tfccaffeinated:block/crop/cassava/lower/stage_1"
+    },
+    "age=2": {
+      "model": "tfccaffeinated:block/crop/cassava/lower/stage_2"
+    },
+    "age=3,part=bottom": {
+      "model": "tfccaffeinated:block/crop/cassava/lower/stage_3"
+    },
+    "age=4,part=bottom": {
+      "model": "tfccaffeinated:block/crop/cassava/lower/stage_4"
+    },
+    "age=5,part=bottom": {
+      "model": "tfccaffeinated:block/crop/cassava/lower/stage_5"
+    },
+    "age=6,part=bottom": {
+      "model": "tfccaffeinated:block/crop/cassava/lower/stage_6"
+    },
+    "age=3,part=top": {
+      "model": "tfccaffeinated:block/crop/cassava/upper/stage_3"
+    },
+    "age=4,part=top": {
+      "model": "tfccaffeinated:block/crop/cassava/upper/stage_4"
+    },
+    "age=5,part=top": {
+      "model": "tfccaffeinated:block/crop/cassava/upper/stage_5"
+    },
+    "age=6,part=top": {
+      "model": "tfccaffeinated:block/crop/cassava/upper/stage_6"
+    }
+  }
+}

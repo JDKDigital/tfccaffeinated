@@ -1,0 +1,6 @@
+{
+  "parent": "tfc:block/plant/branch_down",
+  "textures": {
+    "bark": "tfccaffeinated:block/fruit_tree/coffea_branch"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "firmalife:mixing_bowl",
+  "ingredients": [
+  ],
+  "fluid_ingredient": {
+    "ingredient": "firmalife:cream",
+    "amount": 1000
+  },
+  "output_item": {
+    "item": "tfccaffeinated:food/whipped_cream"
+  }
+}
