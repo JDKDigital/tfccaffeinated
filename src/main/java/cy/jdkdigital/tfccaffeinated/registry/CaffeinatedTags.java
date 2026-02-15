@@ -2,9 +2,11 @@ package cy.jdkdigital.tfccaffeinated.registry;
 
 import cy.jdkdigital.tfccaffeinated.TFCCaffeinated;
 import net.minecraft.resources.ResourceLocation;
+import net.minecraft.tags.FluidTags;
 import net.minecraft.tags.ItemTags;
 import net.minecraft.tags.TagKey;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.level.material.Fluid;
 
 public class CaffeinatedTags
 {
@@ -19,6 +21,7 @@ public class CaffeinatedTags
 
     }
     public static class Fluids {
-
+        public static TagKey<Fluid> TEAS = FluidTags.create(ResourceLocation.parse("forge:teas"));
+        public static TagKey<Fluid> WHISKEYS = FluidTags.create(ResourceLocation.parse("forge:whiskeys"));
     }
 }

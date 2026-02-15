@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "tfc:whiskey",
+      "required": false
+    },
+    {
+      "id": "tfc:corn_whiskey",
+      "required": false
+    },
+    {
+      "id": "tfc:rye_whiskey",
+      "required": false
+    }
+  ]
+}

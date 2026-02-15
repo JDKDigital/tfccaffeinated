@@ -5,6 +5,9 @@ import cy.jdkdigital.tfccaffeinated.registry.CaffeinatedRegistrator;
 import cy.jdkdigital.tfccaffeinated.registry.CaffeinatedTags;
 import net.dries007.tfc.common.items.Food;
 import net.dries007.tfc.common.items.TFCItems;
+import net.dries007.tfc.common.recipes.ingredients.FluidIngredient;
+import net.dries007.tfc.common.recipes.ingredients.FluidItemIngredient;
+import net.dries007.tfc.common.recipes.ingredients.FluidStackIngredient;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.recipes.FinishedRecipe;
@@ -16,6 +19,7 @@ import net.minecraft.tags.TagKey;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
+import net.minecraft.world.level.material.Fluid;
 import net.minecraftforge.common.Tags;
 import net.minecraftforge.registries.RegistryObject;
 import org.jetbrains.annotations.Nullable;
@@ -135,4 +139,20 @@ public class RecipeProvider extends net.minecraft.data.recipes.RecipeProvider
                 .save(consumer, ResourceLocation.fromNamespaceAndPath(TFCCaffeinated.MODID, "drink/" + drink.getId().getPath() + "_" + count));
         }
     }
+
+//    private static FluidItemIngredient tea() {
+//        return tagFluid(CaffeinatedTags.Fluids.TEAS);
+//    }
+//
+//    private static FluidItemIngredient coffee() {
+//        return tagFluid(CaffeinatedTags.Fluids.COFFEES);
+//    }
+//
+//    private static FluidItemIngredient milk() {
+//        return tagFluid(CaffeinatedTags.Fluids.MILKS);
+//    }
+//
+//    private static FluidItemIngredient tagFluid(TagKey<Fluid> tag) {
+//        return new FluidItemIngredient(null, new FluidStackIngredient(new FluidIngredient(List.of(new FluidIngredient.FluidTag(tag))), 1000));
+//    }
 }

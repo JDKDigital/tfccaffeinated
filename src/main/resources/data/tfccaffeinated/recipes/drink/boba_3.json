@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "tag": "forge:teas"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "tag": "tfc:milks"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "item": "tfccaffeinated:food/boba_balls"
+    },
+    {
+      "item": "tfccaffeinated:food/boba_balls"
+    },
+    {
+      "item": "tfccaffeinated:food/boba_balls"
+    },
+    {
+      "item": "tfccaffeinated:jar_with_straw"
+    },
+    {
+      "item": "tfccaffeinated:jar_with_straw"
+    },
+    {
+      "item": "tfccaffeinated:jar_with_straw"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "tfccaffeinated:drink/boba_tea"
+  }
+}

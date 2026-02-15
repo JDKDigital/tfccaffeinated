@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "fluid": "tfccaffeinated:black_coffee"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "fluid": "tfccaffeinated:black_coffee"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "tag": "forge:whiskeys"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "item": "tfccaffeinated:food/whipped_cream"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    }
+  ],
+  "result": {
+    "item": "tfccaffeinated:gdrink/irish_coffee"
+  }
+}

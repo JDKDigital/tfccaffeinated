@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "fluid": "tfccaffeinated:espresso"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "item": "tfccaffeinated:mug"
+    }
+  ],
+  "result": {
+    "item": "tfccaffeinated:drink/double_espresso"
+  }
+}

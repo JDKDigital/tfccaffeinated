@@ -130,9 +130,9 @@ dependencies {
     implementation fg.deobf("curse.maven:jei-238222:7391695")
     implementation fg.deobf("curse.maven:patchouli-306770:4636277")
     implementation fg.deobf("curse.maven:jade-324717:4654448")
-    implementation fg.deobf("curse.maven:terrafirmacraft-302973:6990923")
-    implementation fg.deobf("curse.maven:firmalife-453394:7184123")
-    implementation fg.deobf("curse.maven:lmft-656346:4892299")
+    implementation fg.deobf("curse.maven:terrafirmacraft-302973:7442504")
+    implementation fg.deobf("curse.maven:firmalife-453394:7602336")
+//    implementation fg.deobf("curse.maven:lmft-656346:4892299")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.

@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "fluid": "tfccaffeinated:espresso"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "fluid": "firmalife:chocolate"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "item": "tfccaffeinated:food/whipped_cream"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "tfccaffeinated:gdrink/mocha"
+  }
+}

@@ -22,7 +22,7 @@ public class DataProvider
         ExistingFileHelper helper = event.getExistingFileHelper();
 
         gen.addProvider(event.includeClient(), new LanguageProvider(output));
-        gen.addProvider(event.includeServer(), new RecipeProvider(output));
+//        gen.addProvider(event.includeServer(), new RecipeProvider(output));
         var blockTags = new BlockTagProvider(output, provider, helper);
         gen.addProvider(event.includeServer(), blockTags);
         gen.addProvider(event.includeServer(), new ItemTagProvider(output, provider, blockTags.contentsGetter(), helper));

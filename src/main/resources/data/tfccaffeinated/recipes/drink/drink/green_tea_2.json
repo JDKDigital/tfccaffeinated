@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "fluid": "tfccaffeinated:green_tea"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "item": "tfccaffeinated:mug"
+    },
+    {
+      "item": "tfccaffeinated:mug"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "tfccaffeinated:drink/green_tea"
+  }
+}

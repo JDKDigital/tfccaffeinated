@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "fluid": "tfccaffeinated:espresso"
+        },
+        "amount": 1000
+      }
+    },{
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": {
+          "fluid": "minecraft:water"
+        },
+        "amount": 1000
+      }
+    },
+    {
+      "item": "tfccaffeinated:glazed_mug"
+    }
+  ],
+  "result": {
+    "item": "tfccaffeinated:gdrink/americano"
+  }
+}
